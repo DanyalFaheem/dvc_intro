@@ -1,0 +1,5 @@
+[core]
+    remote = mlops_remot
+    autostage = true
+['remote "mlops_remot"']
+    url = gdrive://1Diui_zfFplG4Ugo1JGzJjBmALdYnV-GP
